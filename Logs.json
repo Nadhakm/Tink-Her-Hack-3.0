@@ -1,0 +1,26 @@
+{
+    "_id": "log_id_1",  
+    "user_id": "user_id_1",  
+    "timestamp": "2025-01-25T15:30:00Z", 
+    "location": {
+        "latitude": 9.5793876,
+        "longitude": 76.622015,
+        "address": "RIT Computer Engineering Block, new lh road, 9th Mile, Pampady, Kottayam, Kerala, India",  
+        "osm_data": {  
+            "osm_type": "node",
+            "place_id": 696516
+        }
+    },
+    "recipients_notified": [
+        {
+            "recipient_id": "recipient_id_1",
+            "name": "Aathira Jayadeep",
+            "phone": "917012469596"
+        },
+        {
+            "recipient_id": "recipient_id_2",
+            "name": "Sreelakshmi K",
+            "phone": "+918606454571"
+        }
+    ]
+}
