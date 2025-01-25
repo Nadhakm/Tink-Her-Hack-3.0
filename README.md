@@ -44,7 +44,7 @@ For Software:
 
 # Screenshots (Add at least 3)
 The Sign in page
-<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/Tink-Her-Hack3.0/blob/main/Screenshot-2.png">
+<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/Tink-Her-Hack3.0/blob/main/Screenshot-1.jpg">
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
