@@ -43,8 +43,9 @@ Open   in any web browser
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+The Sign in page
+<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/Tink-Her-Hack3.0/blob/main/Screenshot-2.png">
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
