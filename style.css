@@ -71,3 +71,16 @@
     background-color: #0056b3;
   }
   
+  .for-button {
+
+  }
+
+  .main{
+    width: 30%;
+    height: 50%;
+    background-color: rgb(215, 0, 0);
+    border: 3px solid rgb(215, 0, 0);
+    box-shadow: 0 0 0 3px  rgb(199, 0, 0);
+    margin: auto;
+    border-radius: 30%;
+  }
